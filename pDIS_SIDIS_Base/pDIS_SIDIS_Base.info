@@ -1,13 +1,13 @@
-SetDesc: 'LHAPDFSet proton polarised PDF fit at NLO - mem=0 => average over replicas, mem=1-20 => Monte Carlo replicas - set generated with APFEL++'
+SetDesc: 'Towards Precision Determination of Helicity PDFs with EIC Projections'
 SetIndex: 0000000
-Authors:
+Authors: Hamzeh Khanpour, Maryam Soleymaninia, Majid Azizi, Michael Klasen, Hadi Hashamipour, Maral Salajegheh, and Ulf-G. Meißner
 Reference: arXiv:xxxx.xxxxx
 Format: lhagrid1
 DataVersion: 1
 Particle: 2212
 FlavorScheme: variable
 ErrorType: replicas
-NumMembers: 21
+NumMembers: 32
 Flavors: [-5, -4, -3, -2, -1, 21, 1, 2, 3, 4, 5]
 OrderQCD: 1
 NumFlavors: 5
