@@ -7,7 +7,7 @@ DataVersion: 1
 Particle: 2212
 FlavorScheme: variable
 ErrorType: replicas
-NumMembers: 32
+NumMembers: 31
 Flavors: [-5, -4, -3, -2, -1, 21, 1, 2, 3, 4, 5]
 OrderQCD: 1
 NumFlavors: 5
